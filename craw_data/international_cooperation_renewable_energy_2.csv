@@ -1,5 +1,5 @@
 Entity1,Relationship,Entity2,Date,Money
-tokyo,transition (verb: mirror),japan,Unknown,No money 
+tokyo,transition (verb: mirror),japan,n/a,n/a
 $500 million,finance (verb: announce),u.s.,december 2021,$500 million
-u.s.,export (verb: commit),commerce,march 2022,No money 
-the united states,developing (verb: coordinate),japan,Unknown,No money 
+u.s.,export (verb: commit),commerce,march 2022,n/a
+the united states,developing (verb: coordinate),japan,n/a,n/a
