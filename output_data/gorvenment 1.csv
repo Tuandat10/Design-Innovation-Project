@@ -1,0 +1,12 @@
+energy_source,cleaned_money,country
+hydrogen_energy,2.575,Australia
+other,1.0,Australia
+solar_energy,0.96,Australia
+wind_energy,11.428333333333333,Australia
+geothermal_energy,0.0342,Japan
+hydrogen_energy,0.012666666666666666,Japan
+"solar, wind, hydro, geothermal_energy",14.883333333333333,Japan
+solar_energy,0.0029449999999999997,Japan
+biomass_energy,2.1,China
+solar_energy,0.5061,China
+wind_energy,0.3255,China
